@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Product_Category,Product,Quantity,Unit_Price,Total_Sales,Customer_Gender,Customer_Age,Region,Payment_Method
+ORD0001,2025-04-25,Electronics,Headphones,3,10830,32490,Male,65,North,UPI
+ORD0002,2025-02-17,Sports,Tennis Racket,1,800,800,Male,32,North,Credit Card
+ORD0003,2025-10-29,Sports,Tennis Racket,2,5090,10180,Female,18,South,Cash
+ORD0004,2025-06-22,Home & Kitchen,Lamp,2,2500,5000,Male,23,West,UPI
+ORD0005,2025-01-23,Home & Kitchen,Lamp,5,3000,15000,Female,52,North,Cash
+ORD0006,2025-11-13,Electronics,Smartwatch,3,26540,79620,Female,54,South,UPI
+ORD0007,2025-04-30,Electronics,Smartphone,3,4060,12180,Male,42,East,Cash
+ORD0008,2025-04-18,Home & Kitchen,Cookware Set,3,3930,11790,Female,62,North,Credit Card
+ORD0009,2025-07-14,Sports,Yoga Mat,2,5230,10460,Female,58,South,Debit Card
+ORD0010,2025-07-25,Electronics,Smartphone,1,13720,13720,Female,22,South,Debit Card
+ORD0011,2025-08-23,Clothing,Sneakers,4,3790,15160,Male,34,South,Credit Card
+ORD0012,2025-10-27,Sports,Dumbbells,3,8140,24420,Female,55,West,Debit Card
+ORD0013,2025-02-16,Clothing,Jeans,5,3020,15100,Male,25,South,Credit Card
+ORD0014,2025-07-15,Beauty,Lipstick,1,2170,2170,Female,51,East,UPI
+ORD0015,2025-06-24,Electronics,Smartwatch,3,27050,81150,Male,36,West,Credit Card
+ORD0016,2025-04-02,Beauty,Face Wash,3,2760,8280,Male,58,East,Credit Card
+ORD0017,2025-09-29,Clothing,Jacket,2,3260,6520,Male,56,East,Cash
+ORD0018,2025-05-03,Electronics,Headphones,3,13390,40170,Male,33,North,UPI
+ORD0019,2025-03-07,Beauty,Face Wash,5,840,4200,Female,53,South,Debit Card
+ORD0020,2025-10-04,Sports,Dumbbells,4,2660,10640,Male,63,East,Cash
+ORD0021,2025-03-03,Home & Kitchen,Bedsheet,5,4920,24600,Male,32,North,Debit Card
+ORD0022,2025-10-29,Electronics,Smartwatch,5,10220,51100,Male,18,North,UPI
+ORD0023,2025-06-19,Clothing,T-Shirt,1,4900,4900,Male,50,South,Debit Card
+ORD0024,2025-10-20,Beauty,Shampoo,5,870,4350,Female,33,West,Cash
+ORD0025,2025-08-09,Clothing,T-Shirt,1,3870,3870,Female,45,West,Cash
+ORD0026,2025-06-23,Electronics,Headphones,1,17290,17290,Male,33,South,Credit Card
+ORD0027,2025-04-04,Sports,Tennis Racket,2,4820,9640,Female,47,South,UPI
+ORD0028,2025-11-30,Beauty,Lipstick,1,450,450,Male,23,South,Credit Card
+ORD0029,2025-07-25,Beauty,Perfume,4,1290,5160,Male,28,West,UPI
+ORD0030,2025-08-05,Beauty,Moisturizer,4,1660,6640,Female,27,South,Debit Card
+ORD0031,2025-10-05,Clothing,T-Shirt,5,4260,21300,Male,65,East,UPI
+ORD0032,2025-09-29,Electronics,Smartwatch,4,21390,85560,Male,21,North,Credit Card
+ORD0033,2025-05-01,Electronics,Smartwatch,1,28450,28450,Female,25,South,UPI
+ORD0034,2025-10-26,Sports,Football,4,7230,28920,Female,34,South,Debit Card
+ORD0035,2025-12-10,Clothing,Jacket,4,1170,4680,Female,47,East,UPI
+ORD0036,2025-02-21,Electronics,Mouse,5,23860,119300,Male,52,South,Debit Card
+ORD0037,2025-05-06,Clothing,Jacket,1,5000,5000,Female,36,South,Cash
+ORD0038,2025-12-01,Sports,Cricket Bat,5,8760,43800,Male,60,East,UPI
+ORD0039,2025-10-11,Clothing,Jacket,1,1040,1040,Male,35,East,Credit Card
+ORD0040,2025-09-08,Home & Kitchen,Cookware Set,3,5470,16410,Female,21,North,Cash
+ORD0041,2025-03-08,Home & Kitchen,Mixer,1,3710,3710,Female,28,West,Cash
+ORD0042,2025-12-20,Sports,Football,1,1270,1270,Male,52,North,Debit Card
+ORD0043,2025-03-07,Sports,Dumbbells,2,4900,9800,Male,37,East,UPI
+ORD0044,2025-02-22,Home & Kitchen,Cookware Set,2,7120,14240,Female,53,West,Credit Card
+ORD0045,2025-01-13,Clothing,Jeans,2,2610,5220,Male,65,East,Cash
+ORD0046,2025-12-26,Clothing,Jacket,2,4530,9060,Male,42,North,Cash
+ORD0047,2025-06-06,Clothing,Jeans,4,2290,9160,Male,32,North,Credit Card
+ORD0048,2025-05-23,Beauty,Moisturizer,3,550,1650,Female,59,West,Debit Card
+ORD0049,2025-10-25,Electronics,Headphones,3,8110,24330,Female,20,North,Cash
+ORD0050,2025-09-19,Home & Kitchen,Lamp,4,6500,26000,Male,42,South,Debit Card
+ORD0051,2025-10-03,Electronics,Mouse,1,22090,22090,Male,41,West,UPI
+ORD0052,2025-03-05,Home & Kitchen,Storage Box,3,7090,21270,Female,50,East,Cash
+ORD0053,2025-03-07,Home & Kitchen,Bedsheet,3,5970,17910,Male,44,West,Credit Card
+ORD0054,2025-10-08,Sports,Dumbbells,3,4650,13950,Male,37,East,Credit Card
+ORD0055,2025-08-27,Beauty,Lipstick,5,1840,9200,Female,46,South,Cash
+ORD0056,2025-12-06,Clothing,T-Shirt,3,3130,9390,Female,23,South,Debit Card
+ORD0057,2025-01-24,Clothing,Jeans,2,620,1240,Male,48,North,Cash
+ORD0058,2025-09-11,Beauty,Lipstick,2,2160,4320,Female,33,South,UPI
+ORD0059,2025-12-23,Electronics,Mouse,2,8000,16000,Female,21,South,UPI
+ORD0060,2025-10-14,Beauty,Shampoo,4,2910,11640,Female,46,West,Cash
+ORD0061,2025-05-07,Clothing,Sneakers,4,1820,7280,Female,51,West,Credit Card
+ORD0062,2025-05-27,Home & Kitchen,Bedsheet,1,7600,7600,Male,35,East,Debit Card
+ORD0063,2025-04-29,Sports,Football,2,2040,4080,Female,62,South,Credit Card
+ORD0064,2025-10-05,Electronics,Mouse,4,14350,57400,Female,44,North,Credit Card
+ORD0065,2025-10-22,Beauty,Perfume,5,300,1500,Female,48,North,Debit Card
+ORD0066,2025-10-07,Home & Kitchen,Bedsheet,4,5810,23240,Male,49,South,Debit Card
+ORD0067,2025-06-22,Beauty,Perfume,1,2190,2190,Female,64,South,Cash
+ORD0068,2025-07-21,Clothing,Dress,5,630,3150,Male,23,West,Credit Card
+ORD0069,2025-07-14,Beauty,Shampoo,1,1530,1530,Female,31,West,Debit Card
+ORD0070,2025-08-04,Home & Kitchen,Bedsheet,3,8000,24000,Female,23,West,UPI
+ORD0071,2025-11-29,Sports,Football,3,2790,8370,Male,59,North,UPI
+ORD0072,2025-03-20,Clothing,Jeans,1,3680,3680,Male,26,West,UPI
+ORD0073,2025-05-12,Sports,Yoga Mat,4,7660,30640,Female,28,North,Credit Card
+ORD0074,2025-06-09,Home & Kitchen,Mixer,5,560,2800,Female,43,South,UPI
+ORD0075,2025-06-04,Sports,Yoga Mat,1,7630,7630,Male,54,North,Debit Card
+ORD0076,2025-09-17,Sports,Tennis Racket,3,1200,3600,Female,18,West,Cash
+ORD0077,2025-08-24,Electronics,Mouse,3,26830,80490,Male,45,South,Debit Card
+ORD0078,2025-08-12,Sports,Dumbbells,4,5260,21040,Female,38,South,UPI
+ORD0079,2025-08-26,Home & Kitchen,Bedsheet,2,7980,15960,Female,39,North,Cash
+ORD0080,2025-07-01,Home & Kitchen,Cookware Set,4,2470,9880,Female,39,East,Debit Card
+ORD0081,2025-02-13,Sports,Football,5,2450,12250,Male,64,West,Cash
+ORD0082,2025-12-31,Sports,Yoga Mat,4,7110,28440,Female,46,North,UPI
+ORD0083,2025-05-05,Home & Kitchen,Cookware Set,4,7380,29520,Female,60,East,Cash
+ORD0084,2025-10-09,Sports,Dumbbells,3,4850,14550,Female,40,West,Debit Card
+ORD0085,2025-04-09,Home & Kitchen,Lamp,2,1530,3060,Female,25,South,Credit Card
+ORD0086,2025-10-29,Clothing,Sneakers,3,4200,12600,Female,24,South,Debit Card
+ORD0087,2025-01-08,Clothing,Jacket,2,2040,4080,Male,35,North,UPI
+ORD0088,2025-09-09,Sports,Cricket Bat,2,7030,14060,Male,18,East,Cash
+ORD0089,2025-01-27,Beauty,Perfume,3,1140,3420,Female,48,North,UPI
+ORD0090,2025-03-19,Beauty,Perfume,1,470,470,Male,54,East,UPI
+ORD0091,2025-08-02,Clothing,T-Shirt,5,4410,22050,Male,51,West,Cash
+ORD0092,2025-06-06,Beauty,Moisturizer,5,2390,11950,Male,57,North,Credit Card
+ORD0093,2025-05-03,Clothing,Jacket,1,1300,1300,Male,53,North,Credit Card
+ORD0094,2025-11-01,Electronics,Mouse,4,29030,116120,Female,36,North,Credit Card
+ORD0095,2025-12-18,Home & Kitchen,Lamp,4,1020,4080,Male,34,South,Cash
+ORD0096,2025-03-18,Electronics,Smartwatch,2,27320,54640,Female,27,North,UPI
+ORD0097,2025-10-19,Clothing,Jacket,5,4330,21650,Female,46,North,Cash
+ORD0098,2025-10-04,Home & Kitchen,Bedsheet,3,5420,16260,Female,46,North,UPI
+ORD0099,2025-01-14,Beauty,Moisturizer,5,1480,7400,Male,32,North,Debit Card
+ORD0100,2025-09-23,Sports,Football,2,5310,10620,Female,35,South,Cash
+ORD0101,2025-07-29,Beauty,Face Wash,4,1980,7920,Female,38,North,Credit Card
+ORD0102,2025-12-06,Home & Kitchen,Bedsheet,4,3250,13000,Female,53,North,Cash
+ORD0103,2025-03-01,Electronics,Keyboard,3,14040,42120,Female,50,North,Cash
+ORD0104,2025-07-05,Beauty,Face Wash,2,2850,5700,Female,58,West,UPI
+ORD0105,2025-05-28,Clothing,Jacket,5,1170,5850,Female,62,West,UPI
+ORD0106,2025-03-23,Electronics,Smartwatch,2,29870,59740,Female,53,North,Cash
+ORD0107,2025-03-02,Electronics,Smartphone,1,19700,19700,Male,49,East,Debit Card
+ORD0108,2025-08-22,Beauty,Perfume,4,1440,5760,Male,42,South,Credit Card
+ORD0109,2025-09-17,Electronics,Keyboard,4,14720,58880,Female,18,East,Debit Card
+ORD0110,2025-03-18,Sports,Dumbbells,4,9360,37440,Female,52,West,Debit Card
+ORD0111,2025-08-22,Home & Kitchen,Storage Box,5,4160,20800,Female,30,South,Cash
+ORD0112,2025-08-31,Clothing,Sneakers,1,2120,2120,Female,42,South,Cash
+ORD0113,2025-06-19,Electronics,Smartphone,5,24970,124850,Male,46,North,Cash
+ORD0114,2025-03-21,Electronics,Smartphone,4,27610,110440,Male,48,East,Debit Card
+ORD0115,2025-06-18,Sports,Tennis Racket,1,9220,9220,Female,38,West,UPI
+ORD0116,2025-12-17,Sports,Football,2,6960,13920,Female,32,North,Cash
+ORD0117,2025-12-22,Electronics,Headphones,4,7610,30440,Female,19,North,Debit Card
+ORD0118,2025-08-09,Electronics,Keyboard,3,16150,48450,Male,33,West,Credit Card
+ORD0119,2025-07-15,Clothing,Jeans,1,3620,3620,Male,49,South,Credit Card
+ORD0120,2025-12-08,Beauty,Moisturizer,4,1500,6000,Male,47,East,Credit Card
+ORD0121,2025-06-03,Electronics,Mouse,3,24860,74580,Female,62,East,Cash
+ORD0122,2025-02-24,Home & Kitchen,Cookware Set,4,5240,20960,Male,42,East,Debit Card
+ORD0123,2025-01-05,Home & Kitchen,Mixer,4,3110,12440,Male,56,West,Debit Card
+ORD0124,2025-11-22,Clothing,Dress,3,1620,4860,Male,57,East,Credit Card
+ORD0125,2025-01-18,Electronics,Headphones,3,18850,56550,Female,64,South,UPI
+ORD0126,2025-04-13,Home & Kitchen,Lamp,4,2090,8360,Male,52,East,Debit Card
+ORD0127,2025-06-01,Clothing,Jacket,4,4620,18480,Female,25,West,UPI
+ORD0128,2025-10-13,Clothing,Jeans,4,4830,19320,Female,23,West,UPI
+ORD0129,2025-07-08,Home & Kitchen,Storage Box,1,4950,4950,Female,55,West,Debit Card
+ORD0130,2025-11-14,Electronics,Smartphone,4,1820,7280,Female,57,South,UPI
+ORD0131,2025-03-13,Beauty,Moisturizer,4,790,3160,Male,20,East,Cash
+ORD0132,2025-03-11,Electronics,Headphones,2,22810,45620,Female,47,East,Cash
+ORD0133,2025-02-20,Sports,Yoga Mat,4,7200,28800,Female,57,West,Debit Card
+ORD0134,2025-08-16,Electronics,Keyboard,2,18960,37920,Male,41,North,Debit Card
+ORD0135,2025-05-22,Sports,Cricket Bat,1,4570,4570,Male,25,West,UPI
+ORD0136,2025-06-20,Clothing,Dress,1,750,750,Male,26,South,UPI
+ORD0137,2025-04-30,Sports,Yoga Mat,5,2710,13550,Female,27,North,Debit Card
+ORD0138,2025-03-31,Clothing,Jeans,5,1780,8900,Male,60,North,Credit Card
+ORD0139,2025-06-15,Electronics,Keyboard,2,24910,49820,Male,29,East,UPI
+ORD0140,2025-02-02,Clothing,Sneakers,5,1080,5400,Female,46,East,UPI
+ORD0141,2025-12-04,Beauty,Lipstick,2,420,840,Female,47,North,UPI
+ORD0142,2025-09-09,Beauty,Perfume,4,750,3000,Female,22,North,Debit Card
+ORD0143,2025-05-21,Sports,Yoga Mat,1,1790,1790,Female,42,East,Cash
+ORD0144,2025-12-26,Sports,Dumbbells,4,1510,6040,Male,59,South,Cash
+ORD0145,2025-08-21,Beauty,Shampoo,4,1930,7720,Female,44,North,Debit Card
+ORD0146,2025-03-20,Beauty,Moisturizer,3,2110,6330,Female,22,North,UPI
+ORD0147,2025-03-08,Electronics,Mouse,1,16060,16060,Male,55,East,UPI
+ORD0148,2025-05-28,Beauty,Moisturizer,4,460,1840,Female,40,North,Credit Card
+ORD0149,2025-02-25,Clothing,Sneakers,2,4830,9660,Female,53,East,UPI
+ORD0150,2025-10-15,Home & Kitchen,Storage Box,2,4690,9380,Male,56,East,UPI
+ORD0151,2025-06-29,Clothing,Jacket,3,2230,6690,Male,29,South,Cash
+ORD0152,2025-09-29,Electronics,Smartphone,1,4550,4550,Male,42,West,Cash
+ORD0153,2025-06-16,Home & Kitchen,Cookware Set,3,3490,10470,Male,21,South,Credit Card
+ORD0154,2025-08-15,Sports,Football,1,3280,3280,Female,49,West,Cash
+ORD0155,2025-06-26,Home & Kitchen,Cookware Set,5,1460,7300,Female,25,East,Cash
+ORD0156,2025-07-22,Sports,Cricket Bat,1,2750,2750,Male,18,South,Debit Card
+ORD0157,2025-06-17,Clothing,Jeans,3,1980,5940,Male,18,West,Cash
+ORD0158,2025-12-27,Clothing,Jeans,4,3220,12880,Male,50,East,UPI
+ORD0159,2025-08-24,Beauty,Face Wash,4,290,1160,Male,38,West,Cash
+ORD0160,2025-01-11,Beauty,Moisturizer,1,2270,2270,Female,28,West,Debit Card
+ORD0161,2025-08-12,Electronics,Mouse,1,10760,10760,Female,51,North,Cash
+ORD0162,2025-03-28,Home & Kitchen,Lamp,2,3710,7420,Male,50,North,Credit Card
+ORD0163,2025-02-22,Home & Kitchen,Lamp,2,2710,5420,Male,34,South,Credit Card
+ORD0164,2025-11-18,Sports,Yoga Mat,1,2310,2310,Female,47,West,Debit Card
+ORD0165,2025-08-29,Home & Kitchen,Cookware Set,4,990,3960,Female,58,East,Debit Card
+ORD0166,2025-02-07,Sports,Football,3,5690,17070,Female,47,West,UPI
+ORD0167,2025-11-27,Electronics,Keyboard,3,3940,11820,Male,57,West,Cash
+ORD0168,2025-10-20,Sports,Dumbbells,1,5100,5100,Male,38,West,Credit Card
+ORD0169,2025-02-13,Electronics,Mouse,1,14860,14860,Male,20,South,Cash
+ORD0170,2025-07-06,Beauty,Lipstick,5,1010,5050,Female,36,West,Cash
+ORD0171,2025-11-28,Home & Kitchen,Storage Box,1,6760,6760,Female,22,East,UPI
+ORD0172,2025-12-03,Sports,Tennis Racket,3,3080,9240,Male,39,North,Credit Card
+ORD0173,2025-11-01,Home & Kitchen,Lamp,4,1620,6480,Male,37,West,Debit Card
+ORD0174,2025-12-10,Clothing,Dress,1,3800,3800,Female,50,East,UPI
+ORD0175,2025-06-24,Home & Kitchen,Lamp,2,2490,4980,Female,30,South,Credit Card
+ORD0176,2025-02-21,Clothing,T-Shirt,3,4820,14460,Male,60,East,Credit Card
+ORD0177,2025-04-03,Sports,Tennis Racket,2,2160,4320,Male,64,West,UPI
+ORD0178,2025-11-09,Beauty,Moisturizer,2,2470,4940,Female,65,West,Credit Card
+ORD0179,2025-08-29,Sports,Yoga Mat,3,8780,26340,Male,41,West,Cash
+ORD0180,2025-08-03,Home & Kitchen,Bedsheet,5,5700,28500,Male,30,South,Debit Card
+ORD0181,2025-02-22,Electronics,Mouse,3,23510,70530,Male,36,North,Credit Card
+ORD0182,2025-08-12,Home & Kitchen,Bedsheet,5,1800,9000,Male,32,West,Debit Card
+ORD0183,2025-09-15,Electronics,Mouse,1,17030,17030,Female,33,West,UPI
+ORD0184,2025-02-20,Home & Kitchen,Cookware Set,1,3560,3560,Female,27,South,UPI
+ORD0185,2025-08-29,Home & Kitchen,Bedsheet,2,7520,15040,Female,57,North,UPI
+ORD0186,2025-10-08,Electronics,Keyboard,2,6920,13840,Female,25,East,Credit Card
+ORD0187,2025-08-03,Home & Kitchen,Mixer,1,2740,2740,Female,22,North,Cash
+ORD0188,2025-09-21,Sports,Dumbbells,1,6970,6970,Male,63,South,Debit Card
+ORD0189,2025-05-04,Beauty,Face Wash,5,2000,10000,Female,29,North,Debit Card
+ORD0190,2025-09-17,Electronics,Smartwatch,5,21580,107900,Male,42,West,UPI
+ORD0191,2025-07-02,Beauty,Moisturizer,3,280,840,Male,40,South,UPI
+ORD0192,2025-06-30,Sports,Cricket Bat,2,950,1900,Female,59,South,Cash
+ORD0193,2025-08-23,Beauty,Shampoo,2,520,1040,Male,36,South,UPI
+ORD0194,2025-09-21,Clothing,T-Shirt,3,2080,6240,Female,52,West,Debit Card
+ORD0195,2025-01-25,Electronics,Smartphone,3,15420,46260,Female,35,North,Debit Card
+ORD0196,2025-06-23,Beauty,Perfume,4,2170,8680,Male,49,West,Debit Card
+ORD0197,2025-08-06,Sports,Cricket Bat,1,7940,7940,Male,45,South,Debit Card
+ORD0198,2025-12-05,Home & Kitchen,Mixer,1,3650,3650,Female,37,West,Cash
+ORD0199,2025-01-22,Clothing,Sneakers,3,2780,8340,Female,57,West,Debit Card
+ORD0200,2025-09-20,Electronics,Headphones,4,15680,62720,Male,19,South,Cash
+ORD0201,2025-11-27,Electronics,Smartphone,1,10460,10460,Female,41,West,UPI
+ORD0202,2025-07-10,Sports,Yoga Mat,4,4290,17160,Female,22,South,Debit Card
+ORD0203,2025-02-28,Beauty,Moisturizer,3,1470,4410,Male,65,South,Cash
+ORD0204,2025-05-15,Sports,Tennis Racket,5,1700,8500,Female,63,West,Credit Card
+ORD0205,2025-03-04,Sports,Cricket Bat,4,2540,10160,Male,22,West,Credit Card
+ORD0206,2025-12-30,Beauty,Face Wash,3,1970,5910,Male,53,East,Debit Card
+ORD0207,2025-04-25,Clothing,Jeans,3,3100,9300,Male,30,South,Credit Card
+ORD0208,2025-08-28,Beauty,Face Wash,3,2080,6240,Male,57,North,UPI
+ORD0209,2025-07-30,Home & Kitchen,Bedsheet,4,5680,22720,Female,54,North,Credit Card
+ORD0210,2025-12-15,Home & Kitchen,Mixer,4,5070,20280,Female,26,South,Credit Card
+ORD0211,2025-09-23,Beauty,Lipstick,1,830,830,Male,37,South,Credit Card
+ORD0212,2025-05-26,Home & Kitchen,Cookware Set,3,5610,16830,Male,34,South,Debit Card
+ORD0213,2025-02-17,Clothing,Jacket,5,3230,16150,Male,55,South,Credit Card
+ORD0214,2025-10-16,Sports,Dumbbells,3,9120,27360,Male,19,North,UPI
+ORD0215,2025-10-20,Sports,Cricket Bat,2,8350,16700,Female,57,North,Cash
+ORD0216,2025-05-06,Sports,Cricket Bat,3,5440,16320,Female,37,West,UPI
+ORD0217,2025-09-05,Electronics,Smartphone,4,17820,71280,Female,31,East,Credit Card
+ORD0218,2025-03-08,Home & Kitchen,Lamp,3,4380,13140,Female,50,North,Debit Card
+ORD0219,2025-08-19,Clothing,Sneakers,1,1860,1860,Male,27,North,UPI
+ORD0220,2025-05-08,Home & Kitchen,Bedsheet,5,4580,22900,Male,38,East,Credit Card
+ORD0221,2025-09-13,Clothing,Sneakers,5,2890,14450,Female,49,North,UPI
+ORD0222,2025-04-21,Beauty,Lipstick,4,1430,5720,Female,21,North,Debit Card
+ORD0223,2025-10-02,Beauty,Lipstick,4,1660,6640,Male,24,West,Credit Card
+ORD0224,2025-01-24,Home & Kitchen,Lamp,4,4040,16160,Female,21,South,Debit Card
+ORD0225,2025-09-16,Sports,Cricket Bat,1,4450,4450,Female,53,East,UPI
+ORD0226,2025-06-23,Clothing,T-Shirt,4,2410,9640,Female,27,South,Cash
+ORD0227,2025-03-12,Sports,Football,1,890,890,Female,48,West,Credit Card
+ORD0228,2025-11-10,Sports,Dumbbells,2,3850,7700,Female,28,West,Debit Card
+ORD0229,2025-09-18,Sports,Cricket Bat,5,8980,44900,Female,63,East,Cash
+ORD0230,2025-02-26,Electronics,Keyboard,3,28390,85170,Female,55,East,UPI
+ORD0231,2025-10-24,Sports,Tennis Racket,3,7210,21630,Male,64,North,Cash
+ORD0232,2025-07-14,Clothing,Dress,5,4460,22300,Male,61,South,UPI
+ORD0233,2025-08-14,Sports,Football,2,690,1380,Female,44,South,Cash
+ORD0234,2025-11-10,Clothing,Sneakers,5,4460,22300,Female,65,North,Credit Card
+ORD0235,2025-12-06,Sports,Yoga Mat,5,3820,19100,Female,51,West,Debit Card
+ORD0236,2025-10-07,Clothing,Sneakers,5,2250,11250,Female,61,East,Cash
+ORD0237,2025-06-02,Clothing,Jeans,3,3350,10050,Male,37,East,Credit Card
+ORD0238,2025-10-14,Beauty,Moisturizer,4,1980,7920,Female,36,North,Cash
+ORD0239,2025-01-22,Beauty,Moisturizer,2,1680,3360,Female,63,North,Debit Card
+ORD0240,2025-04-14,Beauty,Moisturizer,4,1290,5160,Female,53,East,Credit Card
+ORD0241,2025-05-05,Electronics,Smartwatch,5,10600,53000,Male,60,South,Credit Card
+ORD0242,2025-08-30,Electronics,Headphones,4,14320,57280,Male,61,South,UPI
+ORD0243,2025-09-01,Sports,Yoga Mat,4,7180,28720,Female,59,South,Debit Card
+ORD0244,2025-11-30,Home & Kitchen,Lamp,1,1210,1210,Male,52,North,Credit Card
+ORD0245,2025-09-11,Beauty,Shampoo,1,2230,2230,Male,65,East,UPI
+ORD0246,2025-02-24,Electronics,Keyboard,5,25480,127400,Female,36,West,Cash
+ORD0247,2025-04-09,Clothing,Dress,4,1890,7560,Male,39,South,Cash
+ORD0248,2025-06-22,Home & Kitchen,Cookware Set,1,7840,7840,Female,54,South,Credit Card
+ORD0249,2025-06-17,Sports,Tennis Racket,4,5770,23080,Male,43,North,Credit Card
+ORD0250,2025-01-04,Clothing,Sneakers,3,1770,5310,Female,42,South,Cash
+ORD0251,2025-10-21,Home & Kitchen,Lamp,3,6260,18780,Male,34,East,Credit Card
+ORD0252,2025-03-23,Electronics,Headphones,4,13360,53440,Female,61,East,UPI
+ORD0253,2025-04-23,Home & Kitchen,Lamp,5,2560,12800,Male,48,South,Cash
+ORD0254,2025-10-09,Sports,Cricket Bat,4,7680,30720,Female,52,South,Credit Card
+ORD0255,2025-09-28,Sports,Football,5,5070,25350,Female,22,North,UPI
+ORD0256,2025-10-02,Sports,Dumbbells,2,6360,12720,Male,28,East,Cash
+ORD0257,2025-02-16,Electronics,Smartphone,5,20820,104100,Female,21,West,Credit Card
+ORD0258,2025-01-30,Sports,Tennis Racket,4,6270,25080,Female,61,East,UPI
+ORD0259,2025-10-24,Beauty,Moisturizer,1,1310,1310,Male,20,West,Debit Card
+ORD0260,2025-08-30,Electronics,Smartwatch,1,3620,3620,Male,36,West,Credit Card
+ORD0261,2025-08-18,Clothing,Sneakers,3,2450,7350,Female,42,North,Credit Card
+ORD0262,2025-07-21,Home & Kitchen,Mixer,2,5800,11600,Male,64,South,UPI
+ORD0263,2025-10-06,Electronics,Keyboard,4,28380,113520,Female,52,West,Credit Card
+ORD0264,2025-05-22,Clothing,Sneakers,3,1290,3870,Male,64,North,UPI
+ORD0265,2025-04-16,Beauty,Lipstick,1,1430,1430,Male,24,North,Cash
+ORD0266,2025-01-23,Sports,Football,2,8080,16160,Female,46,South,Credit Card
+ORD0267,2025-04-30,Electronics,Smartphone,5,12640,63200,Female,54,East,Credit Card
+ORD0268,2025-07-31,Home & Kitchen,Cookware Set,5,2560,12800,Female,35,North,Credit Card
+ORD0269,2025-06-26,Beauty,Lipstick,4,440,1760,Female,51,East,Cash
+ORD0270,2025-04-05,Beauty,Shampoo,3,2120,6360,Female,33,South,Debit Card
+ORD0271,2025-07-31,Clothing,Sneakers,1,3370,3370,Female,53,South,Cash
+ORD0272,2025-11-28,Clothing,Jacket,2,2190,4380,Male,46,East,UPI
+ORD0273,2025-07-13,Sports,Yoga Mat,1,3240,3240,Male,22,South,Credit Card
+ORD0274,2025-01-08,Beauty,Shampoo,3,1750,5250,Male,30,North,Cash
+ORD0275,2025-05-03,Clothing,Dress,2,2530,5060,Female,36,West,Cash
+ORD0276,2025-07-04,Sports,Cricket Bat,3,3170,9510,Female,47,North,Cash
+ORD0277,2025-07-31,Home & Kitchen,Cookware Set,3,3500,10500,Male,54,South,Credit Card
+ORD0278,2025-10-24,Electronics,Keyboard,5,24720,123600,Female,36,South,Credit Card
+ORD0279,2025-05-06,Home & Kitchen,Cookware Set,4,6130,24520,Female,53,East,Debit Card
+ORD0280,2025-06-30,Beauty,Perfume,4,1060,4240,Male,26,West,Credit Card
+ORD0281,2025-02-08,Sports,Football,5,840,4200,Male,18,West,Credit Card
+ORD0282,2025-04-22,Clothing,T-Shirt,2,540,1080,Female,41,North,Cash
+ORD0283,2025-10-10,Beauty,Face Wash,1,2920,2920,Female,18,North,Debit Card
+ORD0284,2025-12-24,Sports,Cricket Bat,1,5640,5640,Female,29,North,UPI
+ORD0285,2025-11-14,Sports,Yoga Mat,2,2460,4920,Female,40,East,Cash
+ORD0286,2025-10-17,Electronics,Keyboard,4,19600,78400,Male,62,South,Debit Card
+ORD0287,2025-07-14,Electronics,Headphones,1,17400,17400,Female,53,West,UPI
+ORD0288,2025-08-11,Electronics,Smartphone,1,21270,21270,Female,54,North,UPI
+ORD0289,2025-05-19,Clothing,Jeans,5,2930,14650,Male,22,East,UPI
+ORD0290,2025-10-28,Clothing,Jacket,1,1560,1560,Male,63,West,UPI
+ORD0291,2025-10-18,Home & Kitchen,Cookware Set,5,2760,13800,Female,61,East,Cash
+ORD0292,2025-06-27,Clothing,T-Shirt,5,4310,21550,Male,24,West,Credit Card
+ORD0293,2025-11-01,Electronics,Keyboard,5,25940,129700,Female,38,North,Debit Card
+ORD0294,2025-10-11,Beauty,Perfume,2,2020,4040,Female,45,South,Cash
+ORD0295,2025-02-07,Electronics,Smartwatch,3,10890,32670,Male,35,South,Cash
+ORD0296,2025-02-24,Clothing,Sneakers,3,2340,7020,Male,18,East,Cash
+ORD0297,2025-02-14,Home & Kitchen,Lamp,1,1650,1650,Male,45,West,Cash
+ORD0298,2025-10-11,Electronics,Headphones,1,15290,15290,Male,56,East,Cash
+ORD0299,2025-02-13,Electronics,Keyboard,4,16680,66720,Male,54,South,Cash
+ORD0300,2025-05-18,Clothing,Jeans,3,2040,6120,Female,27,North,Credit Card
+ORD0301,2025-09-05,Beauty,Moisturizer,4,1730,6920,Male,41,East,Credit Card
+ORD0302,2025-08-23,Beauty,Lipstick,5,1200,6000,Male,26,East,UPI
+ORD0303,2025-06-18,Beauty,Moisturizer,5,2140,10700,Female,39,West,Credit Card
+ORD0304,2025-04-13,Home & Kitchen,Lamp,5,7410,37050,Female,38,South,Cash
+ORD0305,2025-05-05,Home & Kitchen,Lamp,4,6190,24760,Female,42,East,Cash
+ORD0306,2025-10-31,Home & Kitchen,Mixer,5,2340,11700,Male,61,North,Cash
+ORD0307,2025-12-21,Clothing,Sneakers,3,4750,14250,Male,44,West,Credit Card
+ORD0308,2025-03-20,Home & Kitchen,Cookware Set,3,7040,21120,Female,42,North,Cash
+ORD0309,2025-10-01,Sports,Tennis Racket,5,4600,23000,Female,52,North,Debit Card
+ORD0310,2025-05-08,Sports,Dumbbells,1,1610,1610,Female,28,North,Cash
+ORD0311,2025-02-20,Home & Kitchen,Bedsheet,1,400,400,Female,32,South,Cash
+ORD0312,2025-10-29,Home & Kitchen,Bedsheet,4,7250,29000,Male,40,North,Cash
+ORD0313,2025-03-01,Electronics,Keyboard,4,4310,17240,Male,40,East,Debit Card
+ORD0314,2025-06-28,Beauty,Shampoo,5,2670,13350,Female,24,West,Cash
+ORD0315,2025-12-30,Home & Kitchen,Mixer,3,750,2250,Male,19,East,UPI
+ORD0316,2025-10-10,Clothing,Jeans,5,1390,6950,Male,39,West,Cash
+ORD0317,2025-11-24,Clothing,Sneakers,2,1450,2900,Female,43,North,Credit Card
+ORD0318,2025-01-03,Beauty,Lipstick,4,2190,8760,Male,31,East,UPI
+ORD0319,2025-07-07,Sports,Football,5,2410,12050,Female,30,West,UPI
+ORD0320,2025-06-10,Home & Kitchen,Bedsheet,5,6840,34200,Female,57,West,UPI
+ORD0321,2025-03-30,Home & Kitchen,Lamp,4,6620,26480,Female,57,North,Credit Card
+ORD0322,2025-03-01,Home & Kitchen,Mixer,2,3420,6840,Male,41,South,Cash
+ORD0323,2025-08-05,Beauty,Lipstick,2,2160,4320,Male,49,South,Credit Card
+ORD0324,2025-06-11,Beauty,Moisturizer,2,1150,2300,Female,57,North,Debit Card
+ORD0325,2025-07-16,Electronics,Mouse,2,8790,17580,Female,44,West,Cash
+ORD0326,2025-10-17,Beauty,Perfume,2,620,1240,Male,32,East,UPI
+ORD0327,2025-03-28,Home & Kitchen,Cookware Set,5,3250,16250,Female,54,West,UPI
+ORD0328,2025-10-06,Sports,Football,3,8430,25290,Female,52,North,Cash
+ORD0329,2025-12-01,Sports,Yoga Mat,4,1540,6160,Male,37,North,Cash
+ORD0330,2025-03-02,Home & Kitchen,Lamp,1,4790,4790,Male,31,East,Cash
+ORD0331,2025-04-16,Clothing,Dress,2,4510,9020,Male,21,East,Debit Card
+ORD0332,2025-12-27,Sports,Dumbbells,2,3810,7620,Female,36,East,UPI
+ORD0333,2025-12-02,Clothing,Sneakers,1,1910,1910,Male,62,South,Credit Card
+ORD0334,2025-12-13,Clothing,Jacket,2,4390,8780,Female,49,South,Debit Card
+ORD0335,2025-11-21,Beauty,Perfume,4,580,2320,Male,43,East,Debit Card
+ORD0336,2025-02-17,Beauty,Perfume,3,210,630,Female,58,East,UPI
+ORD0337,2025-04-19,Sports,Tennis Racket,2,4890,9780,Female,35,East,Debit Card
+ORD0338,2025-10-17,Home & Kitchen,Storage Box,5,1630,8150,Female,39,North,UPI
+ORD0339,2025-03-22,Electronics,Mouse,1,5880,5880,Female,47,North,Cash
+ORD0340,2025-05-21,Clothing,Jeans,3,1310,3930,Male,59,East,Debit Card
+ORD0341,2025-07-22,Electronics,Keyboard,2,2920,5840,Female,64,South,Cash
+ORD0342,2025-09-02,Electronics,Headphones,1,9540,9540,Male,26,South,Cash
+ORD0343,2025-08-05,Electronics,Headphones,3,5730,17190,Male,48,North,Credit Card
+ORD0344,2025-06-10,Beauty,Face Wash,1,720,720,Female,37,South,Cash
+ORD0345,2025-10-16,Clothing,Jeans,1,3210,3210,Male,57,South,Cash
+ORD0346,2025-11-12,Home & Kitchen,Cookware Set,2,4510,9020,Female,31,North,UPI
+ORD0347,2025-07-16,Clothing,T-Shirt,5,4230,21150,Female,45,East,Credit Card
+ORD0348,2025-10-11,Clothing,Jacket,1,1770,1770,Female,62,North,Debit Card
+ORD0349,2025-04-07,Clothing,Dress,5,3100,15500,Female,36,North,Credit Card
+ORD0350,2025-09-13,Beauty,Perfume,1,1430,1430,Male,51,North,Debit Card
+ORD0351,2025-08-04,Home & Kitchen,Cookware Set,4,6120,24480,Female,52,South,Cash
+ORD0352,2025-01-08,Electronics,Headphones,5,3560,17800,Female,31,North,UPI
+ORD0353,2025-08-01,Beauty,Lipstick,3,2760,8280,Female,62,West,UPI
+ORD0354,2025-05-23,Sports,Dumbbells,5,2060,10300,Male,37,North,Credit Card
+ORD0355,2025-10-28,Clothing,Dress,3,2500,7500,Male,37,West,Credit Card
+ORD0356,2025-03-01,Electronics,Smartphone,1,18590,18590,Female,57,North,Debit Card
+ORD0357,2025-03-12,Clothing,T-Shirt,1,4120,4120,Male,28,West,Debit Card
+ORD0358,2025-07-10,Sports,Dumbbells,3,2200,6600,Male,65,East,UPI
+ORD0359,2025-09-26,Electronics,Keyboard,4,11940,47760,Male,34,North,Cash
+ORD0360,2025-09-13,Beauty,Lipstick,3,480,1440,Male,41,South,Debit Card
+ORD0361,2025-09-18,Electronics,Smartwatch,1,10150,10150,Male,20,North,Credit Card
+ORD0362,2025-03-18,Electronics,Mouse,3,16480,49440,Male,20,West,Credit Card
+ORD0363,2025-06-13,Home & Kitchen,Cookware Set,4,7670,30680,Female,22,East,UPI
+ORD0364,2025-09-22,Sports,Football,2,2780,5560,Male,43,North,Cash
+ORD0365,2025-10-11,Home & Kitchen,Lamp,3,1180,3540,Female,18,East,Credit Card
+ORD0366,2025-11-15,Home & Kitchen,Storage Box,3,7870,23610,Male,47,East,Cash
+ORD0367,2025-01-04,Clothing,Dress,2,1270,2540,Female,19,South,Debit Card
+ORD0368,2025-07-12,Electronics,Keyboard,1,27720,27720,Female,24,South,Credit Card
+ORD0369,2025-12-31,Beauty,Perfume,1,920,920,Female,23,North,Credit Card
+ORD0370,2025-02-13,Sports,Tennis Racket,3,5190,15570,Male,50,South,Cash
+ORD0371,2025-08-11,Electronics,Smartwatch,5,3350,16750,Male,33,East,Debit Card
+ORD0372,2025-08-20,Home & Kitchen,Bedsheet,3,3550,10650,Female,32,North,Credit Card
+ORD0373,2025-02-24,Clothing,Dress,1,1290,1290,Male,46,West,Debit Card
+ORD0374,2025-04-17,Beauty,Face Wash,5,2030,10150,Female,37,West,Debit Card
+ORD0375,2025-06-05,Electronics,Headphones,2,28900,57800,Male,31,East,Credit Card
+ORD0376,2025-09-20,Electronics,Smartphone,3,17030,51090,Male,61,East,Debit Card
+ORD0377,2025-08-20,Clothing,T-Shirt,4,4870,19480,Male,24,West,UPI
+ORD0378,2025-04-24,Clothing,T-Shirt,1,810,810,Male,30,West,Debit Card
+ORD0379,2025-02-08,Electronics,Smartwatch,5,11400,57000,Male,22,South,Cash
+ORD0380,2025-01-22,Clothing,T-Shirt,3,1120,3360,Female,21,South,Cash
+ORD0381,2025-12-16,Beauty,Perfume,1,2150,2150,Female,29,East,Credit Card
+ORD0382,2025-03-18,Clothing,Jacket,3,2780,8340,Male,57,South,Debit Card
+ORD0383,2025-02-01,Beauty,Perfume,5,2650,13250,Male,35,West,Credit Card
+ORD0384,2025-11-19,Beauty,Shampoo,5,1470,7350,Male,42,East,Cash
+ORD0385,2025-10-17,Sports,Tennis Racket,3,9840,29520,Female,42,East,Credit Card
+ORD0386,2025-01-16,Electronics,Keyboard,5,9770,48850,Female,21,West,Debit Card
+ORD0387,2025-05-07,Sports,Yoga Mat,2,1520,3040,Male,35,North,Credit Card
+ORD0388,2025-03-30,Sports,Tennis Racket,3,9090,27270,Male,33,East,Debit Card
+ORD0389,2025-10-16,Sports,Football,3,6310,18930,Male,54,South,Cash
+ORD0390,2025-01-20,Sports,Cricket Bat,2,5520,11040,Male,21,South,Credit Card
+ORD0391,2025-06-19,Electronics,Smartwatch,4,820,3280,Male,26,East,Credit Card
+ORD0392,2025-10-28,Home & Kitchen,Mixer,1,1810,1810,Male,25,East,UPI
+ORD0393,2025-06-22,Home & Kitchen,Bedsheet,5,1330,6650,Female,38,South,Credit Card
+ORD0394,2025-12-29,Beauty,Perfume,3,1090,3270,Female,32,South,Cash
+ORD0395,2025-01-01,Home & Kitchen,Lamp,2,2110,4220,Female,54,North,Credit Card
+ORD0396,2025-11-24,Sports,Cricket Bat,5,2760,13800,Male,49,South,Debit Card
+ORD0397,2025-03-27,Electronics,Smartphone,3,13880,41640,Male,63,East,Cash
+ORD0398,2025-12-21,Electronics,Keyboard,2,11020,22040,Male,40,East,UPI
+ORD0399,2025-08-03,Electronics,Headphones,4,18740,74960,Male,44,West,Cash
+ORD0400,2025-09-03,Home & Kitchen,Storage Box,4,1330,5320,Male,28,West,UPI
+ORD0401,2025-05-14,Electronics,Keyboard,1,13850,13850,Male,22,East,Credit Card
+ORD0402,2025-02-17,Beauty,Shampoo,1,3000,3000,Female,56,West,UPI
+ORD0403,2025-03-22,Beauty,Shampoo,5,2420,12100,Male,24,East,Credit Card
+ORD0404,2025-10-04,Clothing,Sneakers,5,4190,20950,Female,60,East,Debit Card
+ORD0405,2025-10-20,Clothing,T-Shirt,1,2510,2510,Female,27,North,Debit Card
+ORD0406,2025-12-05,Electronics,Mouse,1,12860,12860,Female,30,North,UPI
+ORD0407,2025-08-31,Clothing,Jeans,3,910,2730,Male,37,West,Cash
+ORD0408,2025-07-18,Beauty,Moisturizer,1,2980,2980,Male,41,West,Debit Card
+ORD0409,2025-08-14,Clothing,Sneakers,1,1840,1840,Female,34,South,Debit Card
+ORD0410,2025-12-23,Sports,Football,2,8200,16400,Male,23,East,Cash
+ORD0411,2025-07-18,Sports,Yoga Mat,5,1120,5600,Female,52,West,Credit Card
+ORD0412,2025-01-18,Beauty,Moisturizer,1,2220,2220,Male,25,West,Credit Card
+ORD0413,2025-01-22,Clothing,Jeans,2,1140,2280,Female,23,West,Credit Card
+ORD0414,2025-02-04,Clothing,Dress,3,2130,6390,Male,42,West,Debit Card
+ORD0415,2025-12-25,Home & Kitchen,Storage Box,4,420,1680,Female,25,West,Credit Card
+ORD0416,2025-02-21,Clothing,Dress,5,3480,17400,Male,54,North,Debit Card
+ORD0417,2025-07-16,Sports,Cricket Bat,4,3200,12800,Female,54,West,UPI
+ORD0418,2025-11-13,Clothing,Jacket,4,1230,4920,Female,20,West,Debit Card
+ORD0419,2025-07-10,Clothing,T-Shirt,4,1870,7480,Male,39,East,Debit Card
+ORD0420,2025-03-10,Home & Kitchen,Bedsheet,1,2630,2630,Female,65,West,Debit Card
+ORD0421,2025-02-15,Home & Kitchen,Bedsheet,5,6910,34550,Male,46,South,Cash
+ORD0422,2025-09-21,Beauty,Lipstick,3,480,1440,Male,22,East,Cash
+ORD0423,2025-03-30,Clothing,Dress,5,640,3200,Male,30,North,Credit Card
+ORD0424,2025-12-27,Electronics,Mouse,1,15560,15560,Male,35,East,Cash
+ORD0425,2025-01-16,Sports,Tennis Racket,1,7470,7470,Male,41,West,Cash
+ORD0426,2025-06-29,Clothing,Sneakers,5,3320,16600,Female,28,East,UPI
+ORD0427,2025-03-25,Home & Kitchen,Mixer,4,800,3200,Male,32,South,Credit Card
+ORD0428,2025-12-16,Home & Kitchen,Bedsheet,5,500,2500,Male,48,South,Credit Card
+ORD0429,2025-11-08,Sports,Football,2,3080,6160,Female,63,East,Cash
+ORD0430,2025-04-22,Beauty,Moisturizer,4,1490,5960,Female,37,West,UPI
+ORD0431,2025-11-28,Electronics,Smartwatch,3,23790,71370,Female,37,North,Cash
+ORD0432,2025-06-16,Electronics,Keyboard,3,27030,81090,Female,34,East,Credit Card
+ORD0433,2025-11-04,Clothing,Dress,2,790,1580,Female,60,East,Credit Card
+ORD0434,2025-08-03,Electronics,Mouse,3,11420,34260,Female,42,North,Credit Card
+ORD0435,2025-09-01,Home & Kitchen,Cookware Set,5,6830,34150,Female,50,East,Credit Card
+ORD0436,2025-08-30,Sports,Yoga Mat,3,1490,4470,Male,65,East,Credit Card
+ORD0437,2025-04-25,Home & Kitchen,Mixer,2,3930,7860,Female,44,East,Debit Card
+ORD0438,2025-03-02,Home & Kitchen,Storage Box,3,5040,15120,Female,21,North,Cash
+ORD0439,2025-12-15,Clothing,Dress,1,4940,4940,Female,51,East,Cash
+ORD0440,2025-06-25,Electronics,Smartphone,2,9000,18000,Female,54,West,Credit Card
+ORD0441,2025-06-20,Home & Kitchen,Cookware Set,1,5290,5290,Male,38,North,UPI
+ORD0442,2025-10-23,Beauty,Moisturizer,2,1060,2120,Male,49,North,Credit Card
+ORD0443,2025-08-08,Sports,Tennis Racket,4,4630,18520,Female,42,North,UPI
+ORD0444,2025-06-14,Sports,Yoga Mat,3,640,1920,Male,19,North,Credit Card
+ORD0445,2025-02-22,Clothing,Jacket,3,1160,3480,Female,50,East,Credit Card
+ORD0446,2025-08-22,Electronics,Headphones,3,12710,38130,Female,45,South,Debit Card
+ORD0447,2025-07-26,Beauty,Moisturizer,2,1040,2080,Male,32,South,Credit Card
+ORD0448,2025-03-28,Clothing,T-Shirt,5,3080,15400,Male,41,North,Cash
+ORD0449,2025-11-01,Home & Kitchen,Storage Box,5,790,3950,Male,60,North,UPI
+ORD0450,2025-07-14,Electronics,Headphones,4,18990,75960,Male,53,East,Cash
+ORD0451,2025-08-04,Clothing,Jeans,1,2040,2040,Male,60,East,Credit Card
+ORD0452,2025-05-25,Beauty,Face Wash,5,800,4000,Male,24,West,Credit Card
+ORD0453,2025-09-25,Sports,Yoga Mat,3,9010,27030,Male,40,West,Debit Card
+ORD0454,2025-04-17,Clothing,T-Shirt,5,3040,15200,Female,39,South,UPI
+ORD0455,2025-12-09,Electronics,Headphones,1,24310,24310,Female,27,North,UPI
+ORD0456,2025-06-01,Electronics,Keyboard,2,19500,39000,Female,47,North,UPI
+ORD0457,2025-12-13,Clothing,T-Shirt,3,2340,7020,Female,45,North,UPI
+ORD0458,2025-11-28,Electronics,Headphones,2,27970,55940,Male,39,East,Cash
+ORD0459,2025-06-25,Sports,Cricket Bat,1,4310,4310,Male,25,West,Cash
+ORD0460,2025-08-04,Beauty,Moisturizer,4,2640,10560,Male,25,South,UPI
+ORD0461,2025-09-05,Clothing,T-Shirt,4,3520,14080,Female,29,West,Debit Card
+ORD0462,2025-09-07,Sports,Football,2,5440,10880,Male,44,West,UPI
+ORD0463,2025-12-27,Electronics,Keyboard,3,1300,3900,Male,60,East,UPI
+ORD0464,2025-12-06,Beauty,Shampoo,4,1970,7880,Female,27,North,UPI
+ORD0465,2025-09-11,Clothing,Dress,4,4860,19440,Male,22,West,Debit Card
+ORD0466,2025-09-17,Clothing,Jacket,3,750,2250,Male,53,West,Cash
+ORD0467,2025-10-21,Clothing,T-Shirt,4,2770,11080,Female,23,West,Cash
+ORD0468,2025-12-01,Home & Kitchen,Mixer,4,7930,31720,Male,24,West,Cash
+ORD0469,2025-02-16,Electronics,Smartwatch,5,800,4000,Female,50,South,Cash
+ORD0470,2025-08-21,Home & Kitchen,Lamp,1,2580,2580,Female,53,West,Debit Card
+ORD0471,2025-01-02,Beauty,Face Wash,1,1330,1330,Female,40,East,Debit Card
+ORD0472,2025-03-13,Electronics,Headphones,2,20960,41920,Female,24,East,Credit Card
+ORD0473,2025-08-23,Clothing,T-Shirt,4,1600,6400,Male,63,East,UPI
+ORD0474,2025-08-19,Beauty,Face Wash,5,830,4150,Female,60,South,Cash
+ORD0475,2025-08-10,Electronics,Smartwatch,1,23460,23460,Female,50,South,Credit Card
+ORD0476,2025-11-04,Clothing,T-Shirt,4,3860,15440,Female,50,West,Cash
+ORD0477,2025-06-25,Sports,Yoga Mat,3,4570,13710,Female,46,South,Credit Card
+ORD0478,2025-12-26,Beauty,Lipstick,5,1730,8650,Female,63,South,Credit Card
+ORD0479,2025-06-26,Clothing,Dress,3,4010,12030,Male,63,South,Debit Card
+ORD0480,2025-10-26,Electronics,Keyboard,5,20470,102350,Female,61,East,Cash
+ORD0481,2025-07-15,Electronics,Smartwatch,1,1830,1830,Male,21,North,Credit Card
+ORD0482,2025-05-09,Home & Kitchen,Cookware Set,3,7290,21870,Male,21,East,Credit Card
+ORD0483,2025-08-20,Sports,Football,3,8830,26490,Male,57,South,Cash
+ORD0484,2025-12-07,Clothing,Dress,3,4040,12120,Male,42,West,Cash
+ORD0485,2025-05-09,Home & Kitchen,Storage Box,1,430,430,Male,57,West,Credit Card
+ORD0486,2025-11-05,Home & Kitchen,Storage Box,5,7860,39300,Male,64,South,Debit Card
+ORD0487,2025-03-30,Beauty,Shampoo,1,1150,1150,Male,42,North,Cash
+ORD0488,2025-03-24,Home & Kitchen,Storage Box,3,1630,4890,Female,18,East,Cash
+ORD0489,2025-11-02,Clothing,T-Shirt,2,2150,4300,Male,58,East,Cash
+ORD0490,2025-12-29,Sports,Dumbbells,3,1240,3720,Female,51,South,Credit Card
+ORD0491,2025-08-01,Sports,Football,5,2130,10650,Female,23,East,Credit Card
+ORD0492,2025-05-31,Clothing,Jacket,3,2340,7020,Male,57,West,UPI
+ORD0493,2025-11-25,Electronics,Keyboard,4,10640,42560,Male,20,East,Cash
+ORD0494,2025-05-25,Electronics,Mouse,3,22920,68760,Male,51,East,Cash
+ORD0495,2025-06-14,Beauty,Face Wash,3,1180,3540,Male,24,South,UPI
+ORD0496,2025-08-06,Electronics,Smartphone,2,28870,57740,Male,31,West,UPI
+ORD0497,2025-06-19,Clothing,T-Shirt,4,4170,16680,Male,23,North,UPI
+ORD0498,2025-10-22,Clothing,Jacket,5,860,4300,Male,34,West,Cash
+ORD0499,2025-01-09,Beauty,Perfume,4,1810,7240,Female,61,North,UPI
+ORD0500,2025-12-25,Sports,Football,5,960,4800,Male,40,North,Debit Card
